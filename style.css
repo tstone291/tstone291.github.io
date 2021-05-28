@@ -1,3 +1,5 @@
 body {background-color: #FFFAF0;}
 
 #nav-table {width: 1000px;}
+
+#nav-td {width: 200px; text-align:center;}
